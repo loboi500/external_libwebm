@@ -1,15 +1,3 @@
-// Copyright (c) 2016 The WebM project authors. All Rights Reserved.
-//
-// Use of this source code is governed by a BSD-style license
-// that can be found in the LICENSE file in the root of the source
-// tree. An additional intellectual property rights grant can be found
-// in the file PATENTS.  All contributing project authors may
-// be found in the AUTHORS file in the root of the source tree.
-#ifndef LIBWEBM_MKVWRITER_HPP_
-#define LIBWEBM_MKVWRITER_HPP_
-
-// This file is a wrapper for the file included immediately after this comment.
-// New projects should not include this file: include the file included below.
-#include "mkvmuxer/mkvwriter.h"
-
-#endif  // LIBWEBM_MKVWRITER_HPP_
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2260301fba45777cfd3801e81b6f658329356801f60f6fb0aecdbad402b0348
+size 687

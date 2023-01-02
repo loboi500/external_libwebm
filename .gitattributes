@@ -4,3 +4,40 @@
 *.vcxproj       eol=crlf
 *.mkv           -text -diff
 *.webm          -text -diff
+vttreader.h filter=lfs diff=lfs merge=lfs -text
+mkvreader.hpp filter=lfs diff=lfs merge=lfs -text
+README.libwebm filter=lfs diff=lfs merge=lfs -text
+mkvmuxertypes.hpp filter=lfs diff=lfs merge=lfs -text
+mkvmuxerutil.hpp filter=lfs diff=lfs merge=lfs -text
+mkvparser_sample.cc filter=lfs diff=lfs merge=lfs -text
+sample_muxer_metadata.h filter=lfs diff=lfs merge=lfs -text
+LICENSE.TXT filter=lfs diff=lfs merge=lfs -text
+mkvmuxer.hpp filter=lfs diff=lfs merge=lfs -text
+AUTHORS.TXT filter=lfs diff=lfs merge=lfs -text
+iosbuild.sh filter=lfs diff=lfs merge=lfs -text
+webvttparser.h filter=lfs diff=lfs merge=lfs -text
+dumpvtt.cc filter=lfs diff=lfs merge=lfs -text
+LICENSE filter=lfs diff=lfs merge=lfs -text
+testing filter=lfs diff=lfs merge=lfs -text
+webm_info.cc filter=lfs diff=lfs merge=lfs -text
+CMakeLists.txt filter=lfs diff=lfs merge=lfs -text
+MODULE_LICENSE_BSD filter=lfs diff=lfs merge=lfs -text
+m2ts filter=lfs diff=lfs merge=lfs -text
+mkvparser.hpp filter=lfs diff=lfs merge=lfs -text
+sample_muxer_metadata.cc filter=lfs diff=lfs merge=lfs -text
+webvtt filter=lfs diff=lfs merge=lfs -text
+Android.bp filter=lfs diff=lfs merge=lfs -text
+build filter=lfs diff=lfs merge=lfs -text
+PATENTS.TXT filter=lfs diff=lfs merge=lfs -text
+vttdemux.cc filter=lfs diff=lfs merge=lfs -text
+webmids.hpp filter=lfs diff=lfs merge=lfs -text
+codereview.settings filter=lfs diff=lfs merge=lfs -text
+hdr_util.hpp filter=lfs diff=lfs merge=lfs -text
+METADATA filter=lfs diff=lfs merge=lfs -text
+mkvmuxer filter=lfs diff=lfs merge=lfs -text
+mkvmuxer_sample.cc filter=lfs diff=lfs merge=lfs -text
+mkvparser filter=lfs diff=lfs merge=lfs -text
+mkvwriter.hpp filter=lfs diff=lfs merge=lfs -text
+webm_parser filter=lfs diff=lfs merge=lfs -text
+common filter=lfs diff=lfs merge=lfs -text
+Makefile.unix filter=lfs diff=lfs merge=lfs -text

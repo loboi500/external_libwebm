@@ -1,15 +1,3 @@
-// Copyright (c) 2016 The WebM project authors. All Rights Reserved.
-//
-// Use of this source code is governed by a BSD-style license
-// that can be found in the LICENSE file in the root of the source
-// tree. An additional intellectual property rights grant can be found
-// in the file PATENTS.  All contributing project authors may
-// be found in the AUTHORS file in the root of the source tree.
-#ifndef LIBWEBM_MKVMUXER_HPP_
-#define LIBWEBM_MKVMUXER_HPP_
-
-// This file is a wrapper for the file included immediately after this comment.
-// New projects should not include this file: include the file included below.
-#include "mkvmuxer/mkvmuxer.h"
-
-#endif  // LIBWEBM_MKVMUXER_HPP_
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d57bc64897d06435532bb5c3fab5e03e2a9e32dfe3294e787ec620290c4d07c
+size 683

@@ -1,15 +1,3 @@
-// Copyright (c) 2016 The WebM project authors. All Rights Reserved.
-//
-// Use of this source code is governed by a BSD-style license
-// that can be found in the LICENSE file in the root of the source
-// tree. An additional intellectual property rights grant can be found
-// in the file PATENTS.  All contributing project authors may
-// be found in the AUTHORS file in the root of the source tree.
-#ifndef LIBWEBM_VTTREADER_H_
-#define LIBWEBM_VTTREADER_H_
-
-// This file is a wrapper for the file included immediately after this comment.
-// New projects should not include this file: include the file included below.
-#include "webvtt/vttreader.h"
-
-#endif  // LIBWEBM_VTTREADER_H_
+version https://git-lfs.github.com/spec/v1
+oid sha256:567a8fcf0d05150f7d3b4a5388ade97349f05a7dd8b84d1267235623f363984d
+size 679

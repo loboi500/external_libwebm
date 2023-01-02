@@ -1,4 +1,3 @@
-# Names should be added to this file like so:
-# Name or Organization <email address>
-
-Google Inc.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e8751834a0341c39c75a06021fdad56aa614fc6cd7cf0a7f8a18921689c9e2c
+size 98

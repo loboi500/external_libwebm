@@ -1,15 +1,3 @@
-// Copyright (c) 2016 The WebM project authors. All Rights Reserved.
-//
-// Use of this source code is governed by a BSD-style license
-// that can be found in the LICENSE file in the root of the source
-// tree. An additional intellectual property rights grant can be found
-// in the file PATENTS.  All contributing project authors may
-// be found in the AUTHORS file in the root of the source tree.
-#ifndef LIBWEBM_MKVREADER_HPP_
-#define LIBWEBM_MKVREADER_HPP_
-
-// This file is a wrapper for the file included immediately after this comment.
-// New projects should not include this file: include the file included below.
-#include "mkvparser/mkvreader.h"
-
-#endif  // LIBWEBM_MKVREADER_HPP_
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c1836c1cce8e55d91419ec04ecf7e91423e5df079ca79e5384392a01d769c58
+size 688
